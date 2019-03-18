@@ -1,0 +1,11 @@
+*.exe
+*.7z
+*.tar
+*.tar.gz
+*.rar
+
+*.pyc
+*.sublime*
+env/
+.env
+ignore/
